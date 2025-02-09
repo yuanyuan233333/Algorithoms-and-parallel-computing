@@ -1,0 +1,16 @@
+# ninja log v5
+0	731	1732270062828563878	CMakeFiles/DocumentStore_initial.dir/Document.cpp.o	d1d58cb35f0b48a4
+1	737	1732270062836192887	CMakeFiles/DocumentStore_initial.dir/main.cpp.o	5edba4b72eaa47e4
+1	770	1732270062868766301	CMakeFiles/DocumentStore_initial.dir/DocumentStore.cpp.o	8b1eccfcd5607a66
+770	845	1732270062946076058	DocumentStore_initial	3c7039bebddf9d7d
+3	674	1732270163241560926	CMakeFiles/DocumentStore_initial.dir/main.cpp.o	5edba4b72eaa47e4
+674	746	1732270163316041139	DocumentStore_initial	3c7039bebddf9d7d
+2	676	1732270218638451075	CMakeFiles/DocumentStore_initial.dir/main.cpp.o	5edba4b72eaa47e4
+677	745	1732270218710090034	DocumentStore_initial	3c7039bebddf9d7d
+2	663	1732270321658260439	CMakeFiles/DocumentStore_initial.dir/main.cpp.o	5edba4b72eaa47e4
+663	729	1732270321728209730	DocumentStore_initial	3c7039bebddf9d7d
+2	681	1732273980653390477	CMakeFiles/DocumentStore_initial.dir/main.cpp.o	5edba4b72eaa47e4
+2	716	1732273980688199727	CMakeFiles/DocumentStore_initial.dir/DocumentStore.cpp.o	8b1eccfcd5607a66
+716	782	1732273980757526642	DocumentStore_initial	3c7039bebddf9d7d
+2	732	1732274153978204689	CMakeFiles/DocumentStore_initial.dir/DocumentStore.cpp.o	8b1eccfcd5607a66
+732	801	1732274154051617442	DocumentStore_initial	3c7039bebddf9d7d

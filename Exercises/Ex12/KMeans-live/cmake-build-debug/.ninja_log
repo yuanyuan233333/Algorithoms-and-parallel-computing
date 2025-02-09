@@ -1,0 +1,4 @@
+# ninja log v6
+2	58	1732793870037817255	build.ninja	af0881c6d257e4b
+0	280	1732737549608719034	CMakeFiles/KMeans_initial.dir/Centroid.cpp.o	fb822a3a0c324444
+1	299	1732737549609073449	CMakeFiles/KMeans_initial.dir/Point.cpp.o	86da3387026bc29b

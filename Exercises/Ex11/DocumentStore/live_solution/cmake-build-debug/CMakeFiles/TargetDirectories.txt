@@ -1,0 +1,3 @@
+/Users/robertosala/Desktop/APC/AA 2024-2025/Didattica/20241122/DocumentStore/initial_code/cmake-build-debug/CMakeFiles/DocumentStore_initial.dir
+/Users/robertosala/Desktop/APC/AA 2024-2025/Didattica/20241122/DocumentStore/initial_code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/robertosala/Desktop/APC/AA 2024-2025/Didattica/20241122/DocumentStore/initial_code/cmake-build-debug/CMakeFiles/rebuild_cache.dir

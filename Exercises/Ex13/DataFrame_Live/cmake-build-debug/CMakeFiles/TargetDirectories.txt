@@ -1,0 +1,3 @@
+/Users/ardagna/CLionProjects/DataFrame_initial/cmake-build-debug/CMakeFiles/DataFrame_initial.dir
+/Users/ardagna/CLionProjects/DataFrame_initial/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ardagna/CLionProjects/DataFrame_initial/cmake-build-debug/CMakeFiles/rebuild_cache.dir

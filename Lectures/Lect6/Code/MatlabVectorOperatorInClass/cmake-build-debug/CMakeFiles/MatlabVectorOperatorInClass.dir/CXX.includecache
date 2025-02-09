@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ardagna/CLionProjects/MatlabVectorOperatorInClass/MatlabVector.cpp
+MatlabVector.h
+/Users/ardagna/CLionProjects/MatlabVectorOperatorInClass/MatlabVector.h
+
+/Users/ardagna/CLionProjects/MatlabVectorOperatorInClass/MatlabVector.h
+vector
+-
+iostream
+-
+

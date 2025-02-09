@@ -1,0 +1,37 @@
+--------------- ds0 ---------------
+List of Documents:
+id: 945
+	 text: Apple
+List of Drafts:
+id: 946
+	 text: Orange
+
+--------------- ds1 ---------------
+List of Documents:
+id: 945
+	 text: Apple
+id: 947
+	 text: Melon
+id: 948
+	 text: Peach
+List of Drafts:
+
+--------------- ds2 ---------------
+List of Documents:
+id: 946
+	 text: Orange
+id: 949
+	 text: Strawberry
+List of Drafts:
+id: 947
+	 text: Melon
+id: 948
+	 text: Peach
+
+--------------- ds3 ---------------
+List of Documents:
+id: 946
+	 text: Orange
+id: 949
+	 text: Strawberry
+List of Drafts:

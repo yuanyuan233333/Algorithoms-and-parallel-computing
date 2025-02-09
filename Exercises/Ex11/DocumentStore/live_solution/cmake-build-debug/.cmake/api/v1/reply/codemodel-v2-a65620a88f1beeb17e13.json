@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DocumentStore_initial",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DocumentStore_initial::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DocumentStore_initial-Debug-cafb9cfd7a32ad374280.json",
+					"name" : "DocumentStore_initial",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/robertosala/Desktop/APC/AA 2024-2025/Didattica/20241122/DocumentStore/initial_code/cmake-build-debug",
+		"source" : "/Users/robertosala/Desktop/APC/AA 2024-2025/Didattica/20241122/DocumentStore/initial_code"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

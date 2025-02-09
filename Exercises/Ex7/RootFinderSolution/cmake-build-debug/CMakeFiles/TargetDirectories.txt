@@ -1,0 +1,3 @@
+/Users/robertosala/Downloads/RootFinderSolution/cmake-build-debug/CMakeFiles/RootFinderSolution.dir
+/Users/robertosala/Downloads/RootFinderSolution/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/robertosala/Downloads/RootFinderSolution/cmake-build-debug/CMakeFiles/rebuild_cache.dir

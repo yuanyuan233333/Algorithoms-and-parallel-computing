@@ -1,0 +1,20 @@
+#ifndef MATRIX_H_
+#define MATRIX_H_
+
+class Matrix
+{
+    ???
+        ??? n_rows;
+        ??? n_cols;
+
+    public:
+        Matrix (??? rows, ??? cols);
+
+        ??? operator () (std::size_t i, std::size_t j) ???;
+        ??? operator () (std::size_t i, std::size_t j) ???;
+
+        ??? get_n_cols() ???
+        ??? get_n_rows() ???
+};
+
+#endif /* MATRIX_H_ */
